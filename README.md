@@ -7,6 +7,7 @@ This repository contains a front-end shopping cart project built using React. Th
 - [Project Overview](#project-overview)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Live Demo](#live-demo)
 - [Dependencies](#dependencies)
 - [API Usage](#api-usage)
 - [Contributing](#contributing)
@@ -59,6 +60,8 @@ npm start
 
 5. On the cart page, you can remove items from the cart by clicking the "Delete" image next to each item.
 
+## Live Demo
+Check out the live demo of the project at https://ecomzycart.netlify.app/
 
 ## Dependencies
 
